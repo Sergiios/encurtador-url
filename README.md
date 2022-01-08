@@ -1,7 +1,7 @@
 <h1 align="center">Encurtador de URL</h1>
 <p align="center">
 
-O Encurtador de url, além de fornecer uma url menor nos possibilita acessar alguns dados sobre a nova URL gerada.
+O Encurtador de url, além de fornecer uma url menor, nos possibilita acessar alguns dados sobre a nova URL gerada.
 
 <h4>Como utilizar?</h4>
 
